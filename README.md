@@ -11,7 +11,7 @@
 
 ICRA 2026
 
-<a href="[https://arxiv.org/abs/2512.23147](https://arxiv.org/abs/2512.23147)"><img src='https://img.shields.io/badge/arXiv-GeoTeacher-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2512.23147"><img src='https://img.shields.io/badge/arXiv-GeoTeacher-red' alt='Paper PDF'></a>
 </div>
 
 🔥 Official implementation of **GeoTeacher**
@@ -46,7 +46,7 @@ It leverages geometric consistency between teacher and student models to improve
 
 ## 🏗️ Method
 <p align="center">
-  <img src="assets/pipeline.png" width="80%">
+  <a href="https://arxiv.org/pdf/2512.23147">Method overview in the paper</a>
 </p>
 
 
