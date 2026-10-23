@@ -53,7 +53,7 @@ It leverages geometric consistency between teacher and student models to improve
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/USERNAME/GeoTeacher.git
+git clone https://github.com/LogosIntelligenceLab/GeoTeacher.git
 cd GeoTeacher
 
 conda create -n geoteacher python=3.10
